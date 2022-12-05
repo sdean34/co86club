@@ -1,0 +1,86 @@
+<style type="text/css">
+    body 
+    {font-family: Arial;
+     font-size: 15px; }
+    header
+    {background-color: #065487;}
+    h1
+    {font-family:Verdana, Geneva, Tahoma, sans-serif;
+     color:#F1C40F;
+     letter-spacing:5px ;
+    margin-bottom: 0px;}
+    h4 
+    {margin-top: 0px;}
+    h2
+    {color:#065487; 
+     text-decoration: underline;
+    }
+    main
+    {background-color: white;}
+    footer
+    {background-color:#C785AE;
+     font-size: x-small;
+     text-align: center;
+    line-height: 2em;
+    } 
+    .center{
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  width: 50%;
+  }
+  header,nav,main,footer
+  {padding: 5px,5px,5px,5px;}
+
+  section{
+    padding-left: 5px;
+  }
+nav { background-color: #3b3e41;}
+nav a { color:#F1C40F; 
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 3px 10px 3px 10px;
+}
+nav a:hover { color: rgb(166, 166, 212);
+  text-decoration: underline;
+}
+
+ul{
+  list-style-image: url(roundblue.gif);
+}
+header { 
+background: url(night-raid-logo-over-fire-emblem-icon-akame-ga-kill-night-raid-transparent-png-2987889.png) #065487 no-repeat; 
+background-size: 60px 60px;
+background-position: 10px 0px;
+padding-left: 80px;
+height: 70px; 
+}
+
+aside#contact { 
+  width: 25%;
+  float: right;
+  background: linear-gradient(0deg, #fff035, );
+  padding: 10px;
+  font-size: small;
+  border: thin black dashed ;
+  float: right;
+  border-radius: 20px;
+  box-shadow: 2px 2px 5px #033a61;
+  background-color: aliceblue;
+}
+
+section {
+  background: url(brzcherry.jpg) white no-repeat;
+  background-size: cover;
+  background-position: top center;
+  height: 300px;
+  box-sizing: border-box;
+  padding: 250px 0 0 70px;
+
+}
+h2 {
+  color: white;
+  text-shadow: 2px 2px 30px black;
+}
+  </style>
